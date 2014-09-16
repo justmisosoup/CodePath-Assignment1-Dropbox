@@ -11,4 +11,4 @@ I completed all required stories:
 - User can follow the create user flow.
 - User can follow the sign in flow.
 
-The interaction was wrong for the flow of the log-in flow demonstrated in the tutorial. So I built it according to the proper interaction flow. Hppe that's okay. :)
+The interaction was wrong for the log-in flow as demonstrated in the tutorial. So I built it according to the proper interaction flow within Dropbox. Hope that's okay. :)
