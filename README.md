@@ -1,14 +1,23 @@
-CodePath-Assignment1-Dropbox
-============================
+# Dropbox Log-In Flow
 
-Week 1 Assignment
+(Sample of your weekly project submission README)
 
-Time to complete: ~4.5 hours
+This is a sample of the Dropbox log-in flow for iOS. All images were provided courtesy of CodePath. 
 
-I completed all required stories:
+Time spent: 4.5 hours total
 
-- User can tap through the 3 welcome screens.
-- User can follow the create user flow.
-- User can follow the sign in flow.
+Completed user stories:
 
-The interaction was wrong for the log-in flow as demonstrated in the tutorial. So I built it according to the proper interaction flow within Dropbox. Hope that's okay. :)
+ * [x] Required: User can tap through the 3 welcome screens.
+ * [x] Required: User can follow the create user flow.
+ * [x] User can follow the sign in flow.
+ * 
+Notes:
+
+I adjusted the flow a bit as it is incorrect according to the app. Hope that is okay. :)
+
+Walkthrough of all user stories:
+
+![Video Walkthrough](dropbox-assignment.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
