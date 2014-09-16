@@ -1,7 +1,5 @@
 # Dropbox Log-In Flow
 
-(Sample of your weekly project submission README)
-
 This is a sample of the Dropbox log-in flow for iOS. All images were provided courtesy of CodePath. 
 
 Time spent: 4.5 hours total
