@@ -12,7 +12,7 @@ class PhotosExistingViewController: UIViewController {
 
     @IBOutlet weak var scrollView: UIScrollView!
     override func viewDidLoad() {
-        super.viewDidLoad(scrollView.contentSize = CGSize(width: 320, height: 1000))
+        super.viewDidLoad(scrollView.contentSize = CGSize(width: 320, height: 720))
 
         // Do any additional setup after loading the view.
     }
